@@ -7,6 +7,11 @@ Using unsupervised learning can be an incredibly powerful tool, but should be ap
 The tutorial accompanies lecture material, and the intended learning outcome is to enable optimal parameter selection.
 
 
+### To launch the Binder and interactively play with the material:
+
+Click the "Launch Binder" below. When launched, click on "parameterEstimationAndModelChoice.ipynb"
+
+What we will have done is create an online environment where you can execute code by pressing "shift+return". If on a phone, pless the "play" button next to the code cell.
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/parameterEstimation/master)
