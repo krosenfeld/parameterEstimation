@@ -11,7 +11,7 @@ The tutorial accompanies lecture material, and the intended learning outcome is 
 
 Click the "Launch Binder" button below and wait while the repository starts. 
 
-What we will have done is create an online environment where you can execute code by pressing "shift+return" in one of the cells with code. If on a phone, pless the "play" button next to the code cell.
+What we will have done is create an online environment where you can execute code by pressing "shift+return" in one of the code cells. If you are on a phone, press the "play" button next to the code cell.
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/parameterEstimation/master?filepath=parameterEstimationAndModelChoice.ipynb)
