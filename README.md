@@ -1,6 +1,6 @@
 # Parameter estimation and model choice
 
-As data volumes are growing, and the need for recognizing emergent structures efficiently is becoming more pressing, methods from Data Science such as unsupervised learning present an increasingly important tool.
+As data volumes grow along with the need to recognize emergent structures efficiently, methods from Data Science such as unsupervised learning present an increasingly important tool.
 
 Using unsupervised learning can be an incredibly powerful tool, but should be applied with care. This tutorial uses k-means as a machine learning method to demonstrate the importance of critical model evaluation.
 
