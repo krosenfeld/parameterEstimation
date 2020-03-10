@@ -9,9 +9,9 @@ The tutorial accompanies lecture material, and the intended learning outcome is 
 
 ### To launch the Binder and interactively play with the material:
 
-Click the "Launch Binder", and spinning semi circles appear. When launched, click on the ipython notebook "parameterEstimationAndModelChoice.ipynb"
+Click the "Launch Binder" button below, and spinning semicircles appear.
 
 What we will have done is create an online environment where you can execute code by pressing "shift+return" in one of the cells with code. If on a phone, pless the "play" button next to the code cell.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/parameterEstimation/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/parameterEstimation/master?filepath=parameterEstimationAndModelChoice.ipynb)
